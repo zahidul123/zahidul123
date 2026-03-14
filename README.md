@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_ID?v=4" alt="S.M. Zahidul Islam" width="200" style="border-radius: 50%; border: 3px solid #00d4ff;"/>
+ 
   
   <h1>Hi 👋, I'm S.M. Zahidul Islam</h1>
   
