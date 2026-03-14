@@ -10,7 +10,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-m-zahidul-islam-177415203/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zahidul123)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahidul@example.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smzahidulislam35@gmail.com)
   
 </div>
 
@@ -63,7 +63,7 @@ I'm passionate about building **scalable, secure, and high-performance** solutio
 
 ## 📞 Contact & Connect
 
-- 📧 **Email**: zahidul@example.com
+- 📧 **Email**: smzahidulislam35@gmail.com
 - 💼 **LinkedIn**: [S.M. Zahidul Islam](https://www.linkedin.com/in/s-m-zahidul-islam-177415203/)
 - 🐙 **GitHub**: [zahidul123](https://github.com/zahidul123)
 - 📝 **Resume**: [Download CV](https://your-cv-link.com)
@@ -111,7 +111,7 @@ I'm passionate about building **scalable, secure, and high-performance** solutio
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 
 ---
 
